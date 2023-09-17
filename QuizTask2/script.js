@@ -74,6 +74,7 @@ function calculate()
 function reset()
 {
     document.getElementById('tb').innerHTML="";
+    document.getElementById('Cou').value="";
     document.getElementById('dis').setAttribute("style","display:none;");
     document.getElementById('tab').setAttribute("style","display:none;");
 

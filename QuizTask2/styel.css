@@ -1,3 +1,7 @@
+        body
+        {
+            background-color: gainsboro;
+        }
         input{
           width: fit-content;
           border-radius: 5px;

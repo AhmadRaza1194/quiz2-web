@@ -1,4 +1,8 @@
-.main
+        body
+        {
+            background-color: gainsboro;
+        }
+       .main
         {
             width: fit-content;
             border: 2px solid black;
